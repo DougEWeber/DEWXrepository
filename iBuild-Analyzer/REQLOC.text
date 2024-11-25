@@ -1,0 +1,29 @@
+Requisite Location Report
+Summary report:
+DEWXLIVE objects:
+    Objects with requisites in library DEWXLIVE: 4
+    Objects with requisites in library DEWXLIVE: 4
+    Objects with requisites in library DEWXSRC: 13
+
+Detail report:
+DEWXLIVE objects:
+    Objects with requisites in library DEWXLIVE:
+        *FILE DSPF      DEWXLIVE/MNTMENU                    
+        *FILE DSPF      DEWXLIVE/SCHNAMD                    
+        *FILE DSPF      DEWXLIVE/SCHZIPD                    
+        *PGM RPGLE      DEWXLIVE/CUSTMAINT                  
+    Objects with requisites in library DEWXSRC:
+        *CMD            DEWXLIVE/CUSTMAINT                  
+        *FILE PF        DEWXLIVE/CUSMST                     
+        *FILE LF        DEWXLIVE/CUSMSTL1                   
+        *FILE LF        DEWXLIVE/CUSMSTL2                   
+        *FILE LF        DEWXLIVE/CUSMSTL3                   
+        *FILE DSPF      DEWXLIVE/MAINMENU                   
+        *FILE DSPF      DEWXLIVE/MNTMENU                    
+        *FILE DSPF      DEWXLIVE/SCHNAMD                    
+        *FILE DSPF      DEWXLIVE/SCHZIPD                    
+        *MODULE RPGLE   DEWXLIVE/CUSMAIN                    
+        *MODULE RPGLE   DEWXLIVE/CUSMNT                     
+        *MODULE RPGLE   DEWXLIVE/SCHNAM                     
+        *MODULE RPGLE   DEWXLIVE/SCHZIP                     
+End of Requisite Location Report.
