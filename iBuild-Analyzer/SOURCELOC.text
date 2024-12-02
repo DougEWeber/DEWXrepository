@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+DEWXLIVE objects:
+    Objects with source in library DEWXLIVE: 14
+
+Detail report:
+DEWXLIVE objects:
+    Objects with source in library DEWXLIVE:
+        *MODULE RPGLE   DEWXLIVE/CUSMAIN                    
+        *FILE DSPF      DEWXLIVE/MAINMENU                   
+        *MODULE RPGLE   DEWXLIVE/CUSMNT                     
+        *FILE LF        DEWXLIVE/CUSMSTL1                   
+        *FILE PF        DEWXLIVE/CUSMST                     
+        *FILE DSPF      DEWXLIVE/MNTMENU                    
+        *MODULE RPGLE   DEWXLIVE/SCHNAM                     
+        *FILE LF        DEWXLIVE/CUSMSTL3                   
+        *FILE DSPF      DEWXLIVE/SCHNAMD                    
+        *MODULE RPGLE   DEWXLIVE/SCHZIP                     
+        *FILE LF        DEWXLIVE/CUSMSTL2                   
+        *FILE DSPF      DEWXLIVE/SCHZIPD                    
+        *PGM RPGLE      DEWXLIVE/SCHNAMRPG                  
+        *CMD            DEWXLIVE/CUSTMAINT                  
+End of Source Location Report.
